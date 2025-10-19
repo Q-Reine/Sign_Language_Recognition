@@ -1,4 +1,4 @@
-# Assistive Gesture Recognition: ML & DL Pipeline
+# Sign Language Recognition System: ML & DL Pipeline
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange)](https://tensorflow.org)
