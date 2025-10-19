@@ -16,7 +16,6 @@
 - [Quick Start](#quick-start)
 - [Project Structure](#project-structure)
 - [Methodology](#methodology)
-- [License](#license)
 
 ---
 
